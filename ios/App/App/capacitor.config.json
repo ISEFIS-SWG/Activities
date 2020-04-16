@@ -1,0 +1,8 @@
+{
+  "appId": "th.net.ple",
+  "appName": "TOTRun",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
